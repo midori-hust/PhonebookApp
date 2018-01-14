@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PhonebookApp</string>
+
+    <string name="input_name">Input Name </string>
+    <string name="input_number">Input Number </string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="add_phone_number">Add Phone Number</string>
 </resources>
